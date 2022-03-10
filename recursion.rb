@@ -223,3 +223,13 @@ end
 p permutations([1, 2, 3]) # => [[1, 2, 3], [1, 3, 2],
                         #     [2, 1, 3], [2, 3, 1],
                         #     [3, 1, 2], [3, 2, 1]]
+
+def make_change(n)
+    
+    arr = [25,10,5,1] 
+
+    arr.each do |coin|
+
+        while n < 
+    end
+end
